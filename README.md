@@ -1,6 +1,8 @@
 
 # Credit Risk Project
 
+### Live Demo : https://credit-risk-hatfan.streamlit.app/
+
 ## Credit Risk Analysis & Modeling (Research)
 
 **Overview:** This repository contains the complete end-to-end Data Science workflow for predicting loan default risk. The project covers Exploratory Data Analysis (EDA), Data Cleaning, handling class imbalance using SMOTE, and comparing Logistic Regression against XGBoost to minimize False Negatives.
